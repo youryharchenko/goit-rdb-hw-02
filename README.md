@@ -31,5 +31,5 @@
 * Для реалізації відношень **1 до багатьох** додаються відповідні зовнішні ключі.
 
 ## Схема
-
+![Image alt](https://github.com/youryharchenko/goit-rdb-hw-02/raw/main/goit.png)
 
